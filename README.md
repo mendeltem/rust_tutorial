@@ -26,6 +26,15 @@ Add rustc to your PATH with this command:
 source $HOME/.cargo/env
 
 ```
+Verify the installation by checking the version of Rust:
+
+
+```bash
+rustc --version
+
+```
+
+
 
 
 
